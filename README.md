@@ -2,104 +2,99 @@
 
 # Dhruvraj Singh
 
-### Founder • AI Product Engineer • Building the Future of Intelligent Automation
+### M.Tech (CSE) Student • Founder • AI Product Engineer
 
 <p>
-Building AI-powered software that transforms complex workflows into simple, scalable systems.
+Building AI-powered software that transforms complex workflows into intelligent, scalable systems.
 </p>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+LeadFinder;AI+Systems+%26+Automation;FastAPI+•+Next.js+•+PostgreSQL;Enterprise+SaaS;Always+Shipping" alt="Typing SVG"/>
-</p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+LeadFinder;AI+Systems+%26+Automation;FastAPI+•+Next.js+•+PostgreSQL;Enterprise+SaaS;Always+Learning+•+Always+Building" alt="Typing SVG"/>
 </p>
 
 </div>
 
 ---
 
-# About
+# About Me
 
-I'm a founder and software engineer passionate about building products where **Artificial Intelligence is part of the architecture—not just a feature.**
+I'm an **M.Tech (Computer Science & Engineering)** student, founder, and AI product engineer passionate about building software where **Artificial Intelligence is part of the architecture—not just another feature.**
 
-My primary focus is designing systems that reduce manual work through intelligent automation, scalable backend architecture, and thoughtful product engineering.
+My work focuses on designing intelligent systems that automate complex workflows through scalable backend engineering, modern SaaS architecture, and AI-driven decision making.
 
-I'm currently building **LeadFinder**, an enterprise AI platform that helps businesses discover, qualify, and manage opportunities through intelligent workflows.
+I'm currently building **LeadFinder**, an enterprise AI Lead Intelligence Platform that helps businesses discover, analyze, qualify, and manage opportunities through intelligent automation.
 
-Alongside software development, I founded **RealMint Creations**, a creative studio helping brands and creators produce high-impact digital content.
+Alongside product development, I founded **RealMint Creations**, a creative studio helping brands and creators produce high-quality digital content through technology and storytelling.
 
 ---
 
-# What I'm Building
+# 🚀 Current Projects
 
-## 🚀 LeadFinder
+## LeadFinder
 
 **Enterprise AI Lead Intelligence Platform**
 
-LeadFinder is designed to become an intelligent operating system for lead generation.
+LeadFinder is designed to become an intelligent operating system for modern lead generation.
 
-### Core Features
+### Core Capabilities
 
-* AI-powered lead discovery
-* Multi-platform data collection
-* Intelligent lead scoring
-* Semantic deduplication
-* Workflow automation
-* Enterprise dashboard
-* Plugin-based architecture
-* High-performance backend services
+* AI-powered Lead Discovery
+* Multi-platform Data Aggregation
+* Intelligent Lead Scoring
+* Semantic Deduplication
+* Workflow Automation
+* Enterprise Dashboard
+* Plugin-Based Architecture
+* High-Performance Backend Services
 
 ---
 
-## 🎬 RealMint Creations
+## RealMint Creations
 
-Creative production studio focused on storytelling through technology.
+Creative technology studio focused on delivering impactful digital experiences.
 
-Services include:
+### Areas of Work
 
-* Short-form content
-* UGC editing
-* Motion graphics
-* Personal branding
-* Creative automation
+* Short-form Video Editing
+* UGC Content
+* Motion Graphics
+* Personal Branding
+* Creative Automation
 
 ---
 
 # Engineering Philosophy
 
-I enjoy building software that is:
+I believe great software should be:
 
 * Reliable
-* Maintainable
 * Scalable
-* Simple
-* Performance-oriented
+* Maintainable
+* Performant
+* Simple to use
+* Built for the long term
 
-I believe the best systems are the ones that quietly remove friction and allow people to focus on meaningful work.
+Technology should reduce complexity, eliminate repetitive work, and allow people to focus on solving meaningful problems.
 
 ---
 
 # Technology Stack
 
-## Languages
+## Programming Languages
 
 * Python
 * TypeScript
 * JavaScript
 * SQL
 
-## Backend
+## Backend Engineering
 
 * FastAPI
 * REST APIs
 * Async Programming
 * Background Workers
 
-## Frontend
+## Frontend Development
 
 * Next.js
 * React
@@ -111,13 +106,13 @@ I believe the best systems are the ones that quietly remove friction and allow p
 * SQLite
 * Redis
 
-## AI & Automation
+## Artificial Intelligence
 
-* OpenAI APIs
+* OpenAI
 * Google Gemini
 * Claude
-* LLM Integration
 * Prompt Engineering
+* LLM Integration
 * AI Workflows
 
 ## Infrastructure
@@ -132,85 +127,66 @@ I believe the best systems are the ones that quietly remove friction and allow p
 # Current Focus
 
 ```text
-██████████████████████████████████░░░░
-
 LeadFinder V3
 
+████████████████████████████████████ 90%
+
 ✓ AI Architecture
-
 ✓ Enterprise Dashboard
-
 ✓ Workflow Automation
-
 ✓ FastAPI Backend
-
 ✓ PostgreSQL
-
+✓ Modern SaaS
 ✓ System Design
 ```
 
 ---
 
-# GitHub Analytics
+# Engineering Interests
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# Development Activity
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
+* Artificial Intelligence
+* Enterprise SaaS
+* System Design
+* Backend Engineering
+* Workflow Automation
+* AI Agents
+* Developer Tools
+* Product Architecture
+* Modern Web Technologies
 
 ---
 
-# GitHub Trophies
+# Vision
 
-<p align="center">
+I enjoy turning ambitious ideas into practical products.
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
+Whether it's AI infrastructure, enterprise software, automation platforms, or developer tools, my goal remains the same:
 
-</p>
-
----
-
-# Beyond Code
-
-I enjoy turning ideas into products.
-
-Whether it's AI infrastructure, enterprise software, automation platforms, or developer tools, I'm driven by one goal:
-
-> **Build technology that saves time, scales effortlessly, and creates real-world value.**
+> **Build technology that removes unnecessary work, scales with confidence, and creates meaningful impact.**
 
 ---
 
-# Let's Connect
+# Open to Collaborate
 
-I'm always interested in collaborating with engineers, founders, and creators working on AI, automation, backend systems, or modern SaaS products.
+I'm always interested in collaborating with developers, founders, researchers, and creators working on:
+
+* Artificial Intelligence
+* Enterprise Software
+* Backend Systems
+* Workflow Automation
+* SaaS Products
+* Open Source Projects
 
 ---
 
 <div align="center">
 
-### Build with purpose.
+## Build with Purpose.
 
-### Engineer with clarity.
+## Engineer with Clarity.
 
-### Ship relentlessly.
+## Create with Impact.
+
+*"The future belongs to software that understands problems before it solves them."*
 
 </div>
